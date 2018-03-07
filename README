@@ -3,31 +3,6 @@ Added few fixes to suppport Codeigniter 3.x.x
 Please check below or refer to this url : https://github.com/TankAuth/Tank-Auth
 
 Tank Auth is an authentication library for PHP-framework CodeIgniter. It's based on DX Auth, althouth the code was seriously reworked.
-
-Changelog
-
-1.0.9
-PHPass settings are moved to config-file for better control over user data.
-1.0.8
-Some technical changes to make the library compatible with CodeIgniter v.2.0.0.
-1.0.7
-New parameter 'db_table_prefix' is added to config-file. It defines prefix prepended to every table name (except 'ci_sessions') used by the library.
-1.0.6
-Resetting forgotten password option is added for non-activated user. Clicking a link in resetting password email activates user as well.
-1.0.5
-Minor changes resulting from the CI-community feedback.
-1.0.4
-A sample controller welcome is added, to demonstrate how to use the library. The library successfully tested with OBSession.
-1.0.3
-Small bug fixes. The database structure is not affected.
-1.0.2
-SQL injection is fixed (thanks to Laurentvw).
-1.0.1
-use_username config-parameter is added. Now username is optional (only email is necessary).
-1.0.0
-The library is released.
-
-
 Features
 
 The key points of the library are:
