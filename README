@@ -1,7 +1,8 @@
 Added few fixes to suppport Codeigniter 3.x.x
 
-Tank Auth is an authentication library for PHP-framework CodeIgniter. It's based on DX Auth, althouth the code was seriously reworked.
+Please check below or refer to this url : https://github.com/TankAuth/Tank-Auth
 
+Tank Auth is an authentication library for PHP-framework CodeIgniter. It's based on DX Auth, althouth the code was seriously reworked.
 
 Changelog
 
